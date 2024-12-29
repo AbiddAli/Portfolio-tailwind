@@ -17,7 +17,7 @@ export default function About() {
             </p>
         
             <p className="text-lg md:text-xl mt-2 mb-10">
-              I am always eager to learn new technologies to improve my skills and keep up with industry trends. Whether it's building responsive layouts, improving user experience, I strive to create clean, maintainable code with a strong emphasis on design and functionality.
+              I am always eager to learn new technologies to improve my skills and keep up with industry trends. Whether its building responsive layouts, improving user experience, I strive to create clean, maintainable code with a strong emphasis on design and functionality.
             </p>
             </div>
           <Link href="Contact" >
